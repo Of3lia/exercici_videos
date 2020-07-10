@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercici_Videos/1.0.0": {
+        "runtime": {
+          "Exercici_Videos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercici_Videos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

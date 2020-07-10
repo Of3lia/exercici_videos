@@ -1,0 +1,13 @@
+C:\Users\ofeli\source\repos\Exercici_Videos\Exercici_Videos\bin\Release\netcoreapp3.1\Exercici_Videos.exe
+C:\Users\ofeli\source\repos\Exercici_Videos\Exercici_Videos\bin\Release\netcoreapp3.1\Exercici_Videos.deps.json
+C:\Users\ofeli\source\repos\Exercici_Videos\Exercici_Videos\bin\Release\netcoreapp3.1\Exercici_Videos.runtimeconfig.json
+C:\Users\ofeli\source\repos\Exercici_Videos\Exercici_Videos\bin\Release\netcoreapp3.1\Exercici_Videos.runtimeconfig.dev.json
+C:\Users\ofeli\source\repos\Exercici_Videos\Exercici_Videos\bin\Release\netcoreapp3.1\Exercici_Videos.dll
+C:\Users\ofeli\source\repos\Exercici_Videos\Exercici_Videos\bin\Release\netcoreapp3.1\Exercici_Videos.pdb
+C:\Users\ofeli\source\repos\Exercici_Videos\Exercici_Videos\obj\Release\netcoreapp3.1\Exercici_Videos.AssemblyInfoInputs.cache
+C:\Users\ofeli\source\repos\Exercici_Videos\Exercici_Videos\obj\Release\netcoreapp3.1\Exercici_Videos.AssemblyInfo.cs
+C:\Users\ofeli\source\repos\Exercici_Videos\Exercici_Videos\obj\Release\netcoreapp3.1\Exercici_Videos.csproj.CoreCompileInputs.cache
+C:\Users\ofeli\source\repos\Exercici_Videos\Exercici_Videos\obj\Release\netcoreapp3.1\Exercici_Videos.dll
+C:\Users\ofeli\source\repos\Exercici_Videos\Exercici_Videos\obj\Release\netcoreapp3.1\Exercici_Videos.pdb
+C:\Users\ofeli\source\repos\Exercici_Videos\Exercici_Videos\obj\Release\netcoreapp3.1\Exercici_Videos.genruntimeconfig.cache
+C:\Users\ofeli\source\repos\Exercici_Videos\Exercici_Videos\obj\Release\netcoreapp3.1\Exercici_Videos.csprojAssemblyReference.cache
